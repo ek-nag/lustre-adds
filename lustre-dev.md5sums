@@ -1,0 +1,12 @@
+624f4327627c68e2d40a9ae17e533c39  usr/include/lustre/liblustreapi.h
+252bfd85b83e83bbd417f620a04db971  usr/include/lustre/ll_fiemap.h
+35a71a26ccf30b1ce149a8e925c8ec1c  usr/include/lustre/lustre_barrier_user.h
+b11e04bded3a379d8cb5552d550b87e1  usr/include/lustre/lustre_lfsck_user.h
+e34db30aadf69e7aa5d21e67ee1937dc  usr/include/lustre/lustre_user.h
+824e9503910c78fbd0a9706e3636cedc  usr/include/lustre/lustreapi.h
+78f1b17d264ce7278a6fc9050f54a48f  usr/lib/liblnetconfig.a
+5d9d9cf2f9d3aeb3f3dc6bccbd99925e  usr/lib/liblustreapi.a
+4c62b438ba022ed3bbc716d7c004c21e  usr/lib/pkgconfig/lustre.pc
+78a18aa27e1a32cc5c85bcae661e65b1  usr/share/doc/lustre-dev/changelog.Debian.gz
+e42a4c702984d85dcd79304d21cde082  usr/share/doc/lustre-dev/changelog.gz
+833c8db2f169d53ea0b8a2a7d31d1c98  usr/share/doc/lustre-dev/copyright
